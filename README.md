@@ -1,4 +1,4 @@
-<img width="1195" alt="01" src="https://github.com/user-attachments/assets/72b94803-8fe3-4cbd-8884-2c780f48c237">
+<img width="1040" alt="01" src="https://github.com/user-attachments/assets/5ddc665d-ef1c-41fa-8b43-09c4705401ad">
 
 # gwfox
 
@@ -38,5 +38,4 @@
 
 - 重启火狐
 
-
-https://github.com/user-attachments/assets/896dad1e-bdd9-49b3-8ab6-b5867a2532d0
+https://github.com/user-attachments/assets/0db1a2dd-2fe6-4fa9-8ffd-8deaaf3f9c4d
